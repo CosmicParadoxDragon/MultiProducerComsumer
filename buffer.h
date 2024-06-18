@@ -1,0 +1,1 @@
+int buffer [5];
